@@ -1,0 +1,28 @@
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.AssemblyInfoInputs.cache
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.AssemblyInfo.cs
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.csproj.CoreCompileInputs.cache
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.exe
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.deps.json
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.runtimeconfig.json
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.dll
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.pdb
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.dll
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\refint\App Fix Kosten.dll
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.pdb
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.genruntimeconfig.cache
+C:\Users\SchmidtSabrina\source\repos\App Fix Kosten\App Fix Kosten\obj\Debug\net9.0\ref\App Fix Kosten.dll
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.exe
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.deps.json
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.runtimeconfig.json
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.dll
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\bin\Debug\net9.0\App Fix Kosten.pdb
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.AssemblyInfoInputs.cache
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.AssemblyInfo.cs
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.csproj.CoreCompileInputs.cache
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.dll
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\refint\App Fix Kosten.dll
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.pdb
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\App Fix Kosten.genruntimeconfig.cache
+C:\Users\SchmidtSabrina\source\repos\App\App Fix Kosten\obj\Debug\net9.0\ref\App Fix Kosten.dll

@@ -1,0 +1,67 @@
+[
+  {
+    "Name": "Strom",
+    "Verlauf": [
+      {
+        "Betrag": 145,
+        "Rhythmus": "Monatlich",
+        "F\u00E4lligkeitsDatum": "2025-05-01T00:00:00",
+        "G\u00FCltigAb": "2025-04-28T13:20:16.2999943+02:00"
+      }
+    ],
+    "ErstellungsDatum": "2025-04-28T13:20:16.2998291+02:00",
+    "HatR\u00FCckstellung": false
+  },
+  {
+    "Name": "\u00D6l",
+    "Verlauf": [
+      {
+        "Betrag": 2000,
+        "Rhythmus": "J\u00E4hrlich",
+        "F\u00E4lligkeitsDatum": "2025-08-01T00:00:00",
+        "G\u00FCltigAb": "2025-04-28T13:21:46.5873839+02:00"
+      }
+    ],
+    "ErstellungsDatum": "2025-04-28T13:21:46.587295+02:00",
+    "HatR\u00FCckstellung": true
+  },
+  {
+    "Name": "R\u00FCckstellung \u00D6l",
+    "Verlauf": [
+      {
+        "Betrag": 1333.3333333333333333333333334,
+        "Rhythmus": "Einmalig",
+        "F\u00E4lligkeitsDatum": "2025-04-28T13:21:46.587295+02:00",
+        "G\u00FCltigAb": "2025-04-28T13:21:46.587295+02:00"
+      }
+    ],
+    "ErstellungsDatum": "2025-04-28T13:21:46.587295+02:00",
+    "HatR\u00FCckstellung": false
+  },
+  {
+    "Name": "GEZ",
+    "Verlauf": [
+      {
+        "Betrag": 55.08,
+        "Rhythmus": "Viertelj\u00E4hrlich",
+        "F\u00E4lligkeitsDatum": "2025-06-01T00:00:00",
+        "G\u00FCltigAb": "2025-04-28T13:22:48.9556839+02:00"
+      }
+    ],
+    "ErstellungsDatum": "2025-04-28T13:22:48.9556805+02:00",
+    "HatR\u00FCckstellung": true
+  },
+  {
+    "Name": "R\u00FCckstellung GEZ",
+    "Verlauf": [
+      {
+        "Betrag": 18.36,
+        "Rhythmus": "Einmalig",
+        "F\u00E4lligkeitsDatum": "2025-04-28T13:22:48.9556805+02:00",
+        "G\u00FCltigAb": "2025-04-28T13:22:48.9556805+02:00"
+      }
+    ],
+    "ErstellungsDatum": "2025-04-28T13:22:48.9556805+02:00",
+    "HatR\u00FCckstellung": false
+  }
+]

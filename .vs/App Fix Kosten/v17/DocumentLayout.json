@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|c:\\users\\schmidtsabrina\\source\\repos\\app\\app fix kosten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|solutionrelative:app fix kosten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|c:\\users\\schmidtsabrina\\source\\repos\\app\\app fix kosten\\rechnungschef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|solutionrelative:app fix kosten\\rechnungschef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|c:\\users\\schmidtsabrina\\source\\repos\\app\\app fix kosten\\rechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|solutionrelative:app fix kosten\\rechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|c:\\users\\schmidtsabrina\\source\\repos\\app\\app fix kosten\\rechnungsversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|solutionrelative:app fix kosten\\rechnungsversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|c:\\users\\schmidtsabrina\\source\\repos\\app\\app fix kosten\\kontostand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|solutionrelative:app fix kosten\\kontostand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|c:\\users\\schmidtsabrina\\source\\repos\\app\\app fix kosten\\zahlungsrhythmus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F943FD-034B-491F-A364-5E7A5B559953}|App Fix Kosten\\App Fix Kosten.csproj|solutionrelative:app fix kosten\\zahlungsrhythmus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\Program.cs",
+              "RelativeDocumentMoniker": "App Fix Kosten\\Program.cs",
+              "ToolTip": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\Program.cs",
+              "RelativeToolTip": "App Fix Kosten\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:19:08.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RechnungsChef.cs",
+              "DocumentMoniker": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\RechnungsChef.cs",
+              "RelativeDocumentMoniker": "App Fix Kosten\\RechnungsChef.cs",
+              "ToolTip": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\RechnungsChef.cs",
+              "RelativeToolTip": "App Fix Kosten\\RechnungsChef.cs",
+              "ViewState": "AgIAAHQDAAAAAAAAAAAiwJ8DAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:04:52.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZahlungsRhythmus.cs",
+              "DocumentMoniker": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\ZahlungsRhythmus.cs",
+              "RelativeDocumentMoniker": "App Fix Kosten\\ZahlungsRhythmus.cs",
+              "ToolTip": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\ZahlungsRhythmus.cs",
+              "RelativeToolTip": "App Fix Kosten\\ZahlungsRhythmus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:04:33.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kontostand.cs",
+              "DocumentMoniker": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\Kontostand.cs",
+              "RelativeDocumentMoniker": "App Fix Kosten\\Kontostand.cs",
+              "ToolTip": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\Kontostand.cs",
+              "RelativeToolTip": "App Fix Kosten\\Kontostand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:04:02.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RechnungsVersion.cs",
+              "DocumentMoniker": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\RechnungsVersion.cs",
+              "RelativeDocumentMoniker": "App Fix Kosten\\RechnungsVersion.cs",
+              "ToolTip": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\RechnungsVersion.cs",
+              "RelativeToolTip": "App Fix Kosten\\RechnungsVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:03:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rechnung.cs",
+              "DocumentMoniker": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\Rechnung.cs",
+              "RelativeDocumentMoniker": "App Fix Kosten\\Rechnung.cs",
+              "ToolTip": "C:\\Users\\SchmidtSabrina\\source\\repos\\App\\App Fix Kosten\\Rechnung.cs",
+              "RelativeToolTip": "App Fix Kosten\\Rechnung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:03:16.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
