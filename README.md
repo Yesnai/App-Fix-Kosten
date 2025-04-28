@@ -24,7 +24,7 @@ Details
 
 
 Sprache
-C# – weil’s irgendwie cool klingt.
+C# – weil’s irgendwie cool klingt :-P
 
 
 Tools
@@ -36,7 +36,7 @@ Klassen, Objekte, Listen, Schleifen, Konsolen-Kram – das volle Programm!
 
 
 Lernhilfen
-YouTube (mein Held), Grok (mein Retter), und viel Kaffee. ☕
+YouTube (mein Held), Grok (mein Retter), und viel Kaffee ☕.
 
 
 
@@ -63,7 +63,7 @@ Fazit: App ist stabil, Doku fast fertig, ich fühl mich wie ein Profi. 😎
 
 Tag 6: Showtime! 🎤
 
-Was ging? Präsentation vorbereitet, App vorgeführt, Fragen wie ein Rockstar beantwortet.
+Was ging? Präsentation vorbereitet, App vorgeführt, Fragen wie ein Rockstar beantwortet (Bitte Fragt GRok!).
 Fazit: Publikum war begeistert, ich auch. Highfive an mich! ✋
 
 
@@ -73,7 +73,6 @@ Diese Woche war ein Achterbahnritt. Am Anfang dachte ich: „YouTube macht mich 
 🔮 Was kommt noch?
 
 Fancy GUI: Vielleicht Windows Forms oder WPF, damit’s hübsch aussieht.
-Daten speichern: Rechnungen in ’ner Datei oder Datenbank sichern.
 Wecker-Funktion: „Yo, deine Rechnung ist fällig!“
 
 
